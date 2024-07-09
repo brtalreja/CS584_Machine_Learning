@@ -5,13 +5,13 @@ This repository contains my learning journey in the subject of Machine Learning.
 
 ## Table of Contents
 
-- Introduction to Machine Learning
-- Regression
-- Classification
-- Convolutional Neural Networks (CNN)
-- Recurrent Neural Networks (RNN)
-- Deep Neural Networks (DNN)
-- Transfer Learning
+- [Introduction to Machine Learning](#introduction-to-machine-learning)
+- [Regression](#regression)
+- [Classification](#classification)
+- [Convolutional Neural Networks (CNN)](#convolutional-neural-networks-(CNN))
+- [Recurrent Neural Networks (RNN)](#recurrent-neural-networks-(RNN))
+- [Deep Neural Networks (DNN)](#deep-neural-networks-(DNN))
+- [Transfer Learning](#transfer-learning)
 
 ### Introduction to Machine Learning
 
